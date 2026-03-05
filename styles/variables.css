@@ -1,12 +1,29 @@
 :root {
   --bg-img: url('../images/cover-image-dark.png');
-  --base-color: #000028;
+  --bg-color: #000028;
+  --section-title-color: #ff0070;
+  --title-color: #000028;
   --text-color: #F1B2CE;
+  --button-text-color: #ff0070;
+  --decor-color: #ff0070;
   --accent-color: #ff0070;
+  --main-title-color: #DB00FF;  
+  --hover-color: rgba(255, 0, 112, 0.4);
+  --button-bg-color: transparent;  
   --main-font: 'IBM Plex Mono', sans-serif;
   --main-font-style: normal;
   --text-size: 18px;
+  --mobile-title-size: clamp(7.25rem, 7.1055rem + 0.6163vw, 7.5rem);
+  --tablet-pc-title-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   --text-height: 23px;
+  --button-text-height: 18px;
+  --decor-text-height: 25px;
+  --title-height: 82.5%;  
   --text-weight: 400;
+  --title-text-weight: 700;
   --min-block-height: 668px;
+  --menu-margin-block-start-s: 39px;
+  --menu-margin-block-start-m: 146px;
+  --menu-margin-block-start-l: 0;
+  --hidden-flag: block;
 }
