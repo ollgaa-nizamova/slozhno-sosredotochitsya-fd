@@ -7,9 +7,9 @@
   --button-text-color: #ff0070;
   --decor-color: #ff0070;
   --accent-color: #ff0070;
-  --main-title-color: #DB00FF;  
+  --main-title-color: #DB00FF;
   --hover-color: rgba(255, 0, 112, 0.4);
-  --button-bg-color: transparent;  
+  --button-bg-color: transparent;
   --main-font: 'IBM Plex Mono', sans-serif;
   --main-font-style: normal;
   --text-size: 18px;
@@ -18,7 +18,7 @@
   --text-height: 23px;
   --button-text-height: 18px;
   --decor-text-height: 25px;
-  --title-height: 82.5%;  
+  --title-height: 82.5%;
   --text-weight: 400;
   --title-text-weight: 700;
   --min-block-height: 668px;
